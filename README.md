@@ -23,3 +23,6 @@ You're good to go with:
 ```
 $ ruby bot.rb
 ```
+## License
+
+All source code in this repository is available under the [The Unlicense](LICENSE) License.
