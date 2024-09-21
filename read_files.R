@@ -1,2 +1,2 @@
 library(gnumeric)
-df <- read.gnumeric.sheet("Downloads/bmf/PRE20200521", top.left = 'A3')
+df <- read.gnumeric.sheet("bmf/PRE20200601", top.left = 'A9')

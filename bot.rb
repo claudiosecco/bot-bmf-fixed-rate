@@ -46,7 +46,7 @@ dates = get_dates()
 
 dates.each do |date|
 
-  url =   "http://www2.bmf.com.br/pages/portal/bmfbovespa/boletim1/TxRef1.asp"
+  url =   "https://www2.bmf.com.br/pages/portal/bmfbovespa/boletim1/TxRef1.asp"
   url +=  "?Data=#{date}"
 
   driver.get(url)
